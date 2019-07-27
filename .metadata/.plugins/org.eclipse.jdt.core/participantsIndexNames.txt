@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/Users/kusourav/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2541330222.index
+/DashBord/src
+/Users/kusourav/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1188000697.index
+/dbindia/src/main/resources
+/Users/kusourav/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3655494158.index
+/Alexadb/src/main/resources
